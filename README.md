@@ -10,6 +10,23 @@ Tools Used :
 Database- MS Excel
 BI Tool- Power BI
 
+Home of my dashboard :
+
+![Screenshot (100)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/bf5ae243-56be-4167-a453-58395e3e7af7)
+
+GENERAL VIEW:
+
+![Screenshot (97)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/a0406111-2fe7-48c8-a9d4-ad703cc81d2a)
+
+Sales mode analysis :
+
+![Screenshot (98)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/68ddcc3f-5786-46e6-9ecd-2e3cc06cd1b6)
+
+Age group analysis :
+
+![Screenshot (99)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/15f56054-d257-4386-b1a8-0e4571fa80f9)
+
+
 Key Insights :
 
 -Total Customers: The insurance company has a customer base of 26,841
