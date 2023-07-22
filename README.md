@@ -41,6 +41,10 @@ Objective :
 
 The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis lies in extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project offers valuable insights to comprehend the company's performance and facilitate informed decision-making based on data
 
+Data Summary :
+
+![Screenshot (89)](https://github.com/inbatamilan573/Shield-Insurance/assets/61960466/2623f3d1-a394-474c-b7db-9721b148dea8)
+
 
 Home of my dashboard :
 
